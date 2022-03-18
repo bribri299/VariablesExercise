@@ -1,0 +1,14 @@
+C:\Users\britt\source\repos\VariablesEX\VariablesEX\bin\Debug\netcoreapp3.1\VariablesEX.exe
+C:\Users\britt\source\repos\VariablesEX\VariablesEX\bin\Debug\netcoreapp3.1\VariablesEX.deps.json
+C:\Users\britt\source\repos\VariablesEX\VariablesEX\bin\Debug\netcoreapp3.1\VariablesEX.runtimeconfig.json
+C:\Users\britt\source\repos\VariablesEX\VariablesEX\bin\Debug\netcoreapp3.1\VariablesEX.runtimeconfig.dev.json
+C:\Users\britt\source\repos\VariablesEX\VariablesEX\bin\Debug\netcoreapp3.1\VariablesEX.dll
+C:\Users\britt\source\repos\VariablesEX\VariablesEX\bin\Debug\netcoreapp3.1\VariablesEX.pdb
+C:\Users\britt\source\repos\VariablesEX\VariablesEX\obj\Debug\netcoreapp3.1\VariablesEX.csproj.AssemblyReference.cache
+C:\Users\britt\source\repos\VariablesEX\VariablesEX\obj\Debug\netcoreapp3.1\VariablesEX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\britt\source\repos\VariablesEX\VariablesEX\obj\Debug\netcoreapp3.1\VariablesEX.AssemblyInfoInputs.cache
+C:\Users\britt\source\repos\VariablesEX\VariablesEX\obj\Debug\netcoreapp3.1\VariablesEX.AssemblyInfo.cs
+C:\Users\britt\source\repos\VariablesEX\VariablesEX\obj\Debug\netcoreapp3.1\VariablesEX.csproj.CoreCompileInputs.cache
+C:\Users\britt\source\repos\VariablesEX\VariablesEX\obj\Debug\netcoreapp3.1\VariablesEX.dll
+C:\Users\britt\source\repos\VariablesEX\VariablesEX\obj\Debug\netcoreapp3.1\VariablesEX.pdb
+C:\Users\britt\source\repos\VariablesEX\VariablesEX\obj\Debug\netcoreapp3.1\VariablesEX.genruntimeconfig.cache
